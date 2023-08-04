@@ -69,5 +69,5 @@ Please note that this is not the current version of my portfolio website.
 
 ## Getting Started
 To clone and run this project locally, follow these steps:
-1. Clone the repository using `git clone https://github.com/yashksaini/Portfolio-1.0.git`
+1. Clone the repository using `git clone https://github.com/yashksaini/Portfolio-1.1.git`
 2. Open the index.html file in your web browser to view the website locally.
