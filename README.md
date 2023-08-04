@@ -13,7 +13,7 @@
 - [Getting Started](#getting-started)
 
 ## Introduction
-Portfolio 1.0 Website is a personal portfolio website designed to showcase the skills, projects, and contact information of an individual. The website has five sections: Home, About, Skills, Projects, and Contact. 
+Portfolio 1.1 Website is a personal portfolio website designed to showcase the skills, projects, and contact information of an individual. The website has five sections: Home, About, Skills, Projects, and Contact. 
 
 ## Demo
 
@@ -23,7 +23,7 @@ https://github.com/yashksaini/Portfolio-1.1/assets/101442489/1e680a4d-c434-42ab-
 
 
 ## About the Project
-Portfolio 1.0 Website is a personal portfolio platform designed to showcase my skills, achievements, and projects in a visually appealing and user-friendly manner. The website comprises five main sections, including Home, About, Skills, Projects, and Contact.
+Portfolio 1.1 The website is a personal portfolio platform designed to showcase my skills, achievements, and projects in a visually appealing and user-friendly manner. The website comprises five main sections, including Home, About, Skills, Projects, and Contact.
 
 The Home section welcomes visitors with a captivating landing page and introduces them to the purpose of the portfolio. In the About section, I provide a concise overview of my background, education, career journey, and personal interests, enabling visitors to get to know me better. The Skills section highlights my technical expertise, presenting a comprehensive list of skills and technologies I am proficient in. In the My Websites section, I proudly display my projects and websites, accompanied by brief descriptions and relevant images, with links to live demos and GitHub repositories for further exploration. Finally, the Connect With Me section offers my contact information and social media profiles, fostering communication and collaboration opportunities with potential employers or collaborators.
 
